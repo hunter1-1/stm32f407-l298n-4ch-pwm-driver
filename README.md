@@ -14,3 +14,4 @@
 - [Keil 完整工程](./PWM输出%2B按键调节占空比%2BPWM捕获%2BUSART输出%2B电机转速控制1.2电机正反转.zip)。解压后用 Keil MDK 打开 `Project/RVMDK（uv5）/BH-F407.uvprojx`。
 - [嘉立创 EDA 驱动板工程](./L298N四路驱动%2B5V降压模块_工程展示.epro2)
 - [STM32 引脚分配表](./引脚分配.xlsx)
+- [下载演示视频与驱动板 STEP 模型](https://github.com/hunter1-1/stm32f407-l298n-4ch-pwm-driver/releases/tag/demo-v1)
